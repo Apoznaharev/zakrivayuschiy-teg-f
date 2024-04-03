@@ -10,6 +10,9 @@
 
 body {
   margin: 0;
+  font-family: 'Inter-Variable', Helvetica, sans-serif;
+  font-variation-settings: 'wght' var(--font-weight-normal);
+  color: var(--accent-color)
 }
 
 h1,
@@ -35,6 +38,8 @@ input {
   color: currentColor;
   font-family: inherit;
   font-size: inherit;
+  background-color: transparent;
+  border: none;
 }
 
 ul,
