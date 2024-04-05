@@ -1,6 +1,6 @@
 .like-icon {
   cursor: pointer;
-  block-size: 30px;
+  block-size: inherit;
 }
 
 .main-body {
